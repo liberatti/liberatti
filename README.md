@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2>👋 Hey there! I'm Gustavo Liberatti</h2> 
 
-<!--
-**liberatti/liberatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/infrastructure-developer-blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏻‍💻 About Me 
+IT infrastructure and DevOps specialist with a passion for exploring new technologies and development challenges. I am always looking for innovation and continuous improvement.
+
+Let’s turn ideas into reality together!
+
+### 🛠 Tech Stack
+![VMware](https://img.shields.io/badge/VMware-Docker-blue)
+![Static Badge](https://img.shields.io/badge/Windows-Linux-red)
+![Static Badge](https://img.shields.io/badge/Ansible-Jenkins-y)
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
