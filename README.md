@@ -2,9 +2,8 @@
 
 ![](https://img.shields.io/badge/infrastructure-developer-blue)
 
-
 ### 👨🏻‍💻 About Me 
-IT infrastructure and DevOps specialist with a passion for exploring new technologies and development challenges. I am always looking for innovation and continuous improvement.
+IT infrastructure and DevOps specialist with a passion for exploring new technologies and development challenges.
 
 Let’s turn ideas into reality together!
 
