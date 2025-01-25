@@ -1,11 +1,18 @@
-<h2>👋 Hey there! I'm Gustavo Liberatti</h2> 
+<h2> Hey there! I'm Gustavo Liberatti</h2> 
 
 ![](https://img.shields.io/badge/infrastructure-developer-blue)
 
-### 👨🏻‍💻 About Me 
+### About Me 
 IT infrastructure and DevOps specialist with a passion for exploring new technologies and development challenges.
 
 Let’s turn ideas into reality together!
+
+<div align="center">
+  <a href="https://github.com/bomsalvez">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liberatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatti&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 ### 🛠 Tech Stack
 ![VMware](https://img.shields.io/badge/VMware-Docker-blue)
