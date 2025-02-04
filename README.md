@@ -8,7 +8,7 @@ IT infrastructure and DevOps specialist with a passion for exploring new technol
 Let’s turn ideas into reality together!
 
 <div align="center">
-  <a href="https://github.com/bomsalvez">
+  <a href="https://github.com/liberatti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liberatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatti&layout=compact&langs_count=7&theme=dracula"/>
   </a>
