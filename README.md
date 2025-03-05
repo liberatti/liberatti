@@ -8,7 +8,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liberatti&locale=en&hide_title=true&size_weight=0.4&count_weight=0.6&layout=compact&card_width=520&langs_count=12&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
----
 
 ### Tech Stack
 
