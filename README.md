@@ -5,12 +5,10 @@
   IT Infrastructure & DevOps Specialist passionate about exploring new technologies and solving complex challenges.
   Let’s turn ideas into reality together!
 
-<div align="center">
-  <a href="https://github.com/liberatti">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatti&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=liberatti&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liberatti&locale=en&hide_title=true&size_weight=0.4&count_weight=0.6&layout=compact&card_width=520&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ---
 
 ### Tech Stack
