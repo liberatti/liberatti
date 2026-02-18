@@ -1,7 +1,4 @@
 # 👋 Hey there! I'm **Gustavo Liberatti**  
-![Infrastructure Developer](https://img.shields.io/badge/Infrastructure%20Developer-blue)
-
----
 
 ### 🧑‍💻 About Me
 I'm an **IT Infrastructure & DevOps Specialist** passionate about automation, scalability, and reliability.  
@@ -9,6 +6,10 @@ I love exploring new technologies, building resilient systems, and solving compl
 
 > “Let’s turn ideas into reality together!”
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/liberatti.gustavo.png" alt="Your Image Badge" />
+
+![Followers](https://img.shields.io/github/followers/liberatti?style=social)
+![Stars](https://img.shields.io/github/stars/liberatti?style=social)
 ---
 
 ### 🧰 Tech Stack
@@ -31,15 +32,6 @@ I love exploring new technologies, building resilient systems, and solving compl
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liberatti&show_icons=true&theme=dracula&hide_border=false" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liberatti&layout=compact&theme=dracula&hide_border=false" height="180">
-</div>
-
----
-
 ### 🚧 Currently Working On
 - 🧱 Infrastructure automation with **Ansible** and **Docker**
 - ☁️ Cloud-native monitoring and observability tools
@@ -50,8 +42,6 @@ I love exploring new technologies, building resilient systems, and solving compl
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-liberatti/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/liberatti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages)](https://liberatti.github.io/)
 
 ---
 
